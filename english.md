@@ -26,6 +26,6 @@ We may update this Privacy Policy to reflect changes in the App or legal require
 If you have any questions about this Privacy Policy, please contact us at: [sebastianstaszczyk.1999@gmail.com](mailto:sebastianstaszczyk.1999@gmail.com)
 
 ---
-This Privacy Policy is also available in Polish. You can access the Polish version [here](#).
+This Privacy Policy is also available in Polish. You can access the Polish version [here](https://github.com/SebastianStasz/uek-schedule-privacy-policy/blob/main/polish.md).
 
 By using UEK Schedule, you agree to this Privacy Policy.
