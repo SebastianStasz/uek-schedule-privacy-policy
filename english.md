@@ -5,8 +5,12 @@
 ## 1. Overview
 UEK Schedule ("the App") is designed to provide users with access to university schedules of the University of Economics in Cracow in a simple and efficient manner. This is not an official application of the University of Economics in Cracow (UEK). The App is independently developed to provide convenient access to publicly available schedule data.
 
-## 2. Data Collection
-The App does not collect or store any personal information. No user accounts, registration, or login are required to use the App.
+## 2. Authentication and Credentials 
+The App requires users to sign in using their official university credentials provided by UEK. The App acts as a secure bridge to the official university website. It uses the credentials you provide solely to authenticate with the university's systems and fetch your schedule data.
+
+Your credentials are saved locally on your device using Keychain services. These credentials are encrypted and are not accessible to the App creator or any third party. The App developer does not collect, transmit to private servers, or store your password in a readable format. Logging out of the App immediately purges your credentials from the device Keychain.
+
+While the App utilizes industry-standard secure storage, the developer cannot be held responsible for unauthorized access to credentials resulting from device compromise, user negligence, or security breaches beyond the developer's control.
 
 ## 3. Data Sources and Security
 The App sources schedule data directly from the official [University of Economics in Cracow website](https://planzajec.uek.krakow.pl).
