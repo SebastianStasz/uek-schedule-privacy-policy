@@ -1,6 +1,6 @@
 # Privacy Policy for UEK Schedule App
 
-**Effective Date:** 22.12.2024
+**Effective Date:** 15.02.2026
 
 ## 1. Overview
 UEK Schedule ("the App") is designed to provide users with access to university schedules of the University of Economics in Cracow in a simple and efficient manner. This is not an official application of the University of Economics in Cracow (UEK). The App is independently developed to provide convenient access to publicly available schedule data.
