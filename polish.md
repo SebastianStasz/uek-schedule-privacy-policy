@@ -1,12 +1,16 @@
 # Polityka Prywatności dla Aplikacji UEK Schedule
 
-**Data wejścia w życie:** 22.12.2024
+**Data wejścia w życie:** 15.02.2026
 
 ## 1. Wprowadzenie
 UEK Schedule ("Aplikacja") została zaprojektowana, aby umożliwiać użytkownikom prosty i wygodny dostęp do planów zajęć Uniwersytetu Ekonomicznego w Krakowie. Nie jest to oficjalna aplikacja Uniwersytetu Ekonomicznego w Krakowie (UEK). Aplikacja została opracowana niezależnie, aby zapewnić łatwy dostęp do publicznie dostępnych danych o planach zajęć.
 
-## 2. Zbieranie danych
-Aplikacja nie zbiera ani nie przechowuje żadnych danych osobowych. Do korzystania z aplikacji nie jest wymagane zakładanie konta, rejestracja ani logowanie.
+## 2. Logowanie i bezpieczeństwo poświadczeń
+Aplikacja wymaga zalogowania się przy użyciu oficjalnych danych dostępowych wydanych przez UEK. Aplikacja pełni rolę bezpiecznego łącznika z oficjalnym serwisem uczelni. Wykorzystuje Twoje dane wyłącznie w celu uwierzytelnienia i pobrania aktualnego planu zajęć.
+
+Twoje dane logowania są zapisywane lokalnie na Twoim urządzeniu z wykorzystaniem systemowej usługi Keychain. Dane te są zaszyfrowane i niedostępne dla twórcy aplikacji ani osób trzecich. Hasło nie jest przesyłane na żadne zewnętrzne serwery ani przechowywane w formie jawnej. Wylogowanie w aplikacji skutkuje natychmiastowym i trwałym usunięciem danych logowania z pamięci urządzenia (Keychain).
+
+Mimo stosowania standardowych zabezpieczeń systemowych, twórca aplikacji nie ponosi odpowiedzialności za nieautoryzowany dostęp do danych wynikający z zainfekowania urządzenia, jego utraty, złamania zabezpieczeń systemu lub innych zaniedbań niezależnych od autora aplikacji.
 
 ## 3. Źródła danych i bezpieczeństwo
 Aplikacja pobiera dane o planach zajęć bezpośrednio z oficjalnej [strony internetowej Uniwersytetu Ekonomicznego w Krakowie](https://planzajec.uek.krakow.pl).
